@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 void insertionSort(int v[], int tam){
-  int aux, a;
 
   for(int i = 0; i < tam; i++){
    int a = v[i];
